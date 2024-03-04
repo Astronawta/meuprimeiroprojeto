@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+        *{
+            margin: 0 ;
+            padding: 0 ;
+            border: 0 ;
+        }
+        body {
+            background-color: rgb(78, 46, 107);
+        }
+        header {
+            padding: 12px ;
+            border-bottom: 1px solid ;
+            background-color:rgb(42, 165, 108) ;
+        }
+        header div {
+            text-align: center;
+            font-family: 'Kode Mono';
+        }
+        header div a {
+            color:rgb(0, 0, 0) ;
+            font-size: 20px ;
+            line-height: 0px ;
+            margin: 0 12px ;
+            text-decoration: none;
+            font-family: 'Kode Mono';
+        }
+header div a:hover{
+    color: rgb(63, 242, 159);
+    transition: color 700ms;
+}
+
+#box {
+    text-align: center;
+    padding: 12px;
+}
+#box img {
+    border-radius: 50%;
+    border:15px rgb(42, 165, 108);
+    margin-bottom: 16px;
+}
