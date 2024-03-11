@@ -1,3 +1,2 @@
 # meuprimeiroprojeto
- sei lá lek kkkkkk
-O professor mandou eu criar essa parada
+Eu não faço ideia do que eu tô fazendo :/
